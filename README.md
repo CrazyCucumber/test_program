@@ -1,2 +1,3 @@
 # test_program
-Программа для теста бота в репозитории https://github.com/CrazyCucumber/telegramBOT.git
+Программа для юнит теста, который делает телеграмм бот и заносит результат в базу данных https://github.com/CrazyCucumber/telegramBOT.git
+Это тестовый репозиторий, где подразумевается, что им владеет ученик
